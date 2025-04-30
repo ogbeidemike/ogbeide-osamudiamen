@@ -12,7 +12,7 @@ I'm a self-motivated technical support and documentation specialist with 7+ year
 `HTML` `CSS` `JavaScript` `Python` `SQL` `ERP Systems` `Markdown` `GitHub` `Loom`
 
 ### Featured Projects:
-- [ERP Support Docs](https://github.com/ogbeide-osamudiamen/erp-support-docs)
+- [ERP Support Docs](https://github.com/ogbeidemike/erp-support-docs.git)
 - [Frontend Mini Projects](https://github.com/ogbeidemike/frontend-mini-projects.git)
 - [Developer Support Tools](https://github.com/ogbeide-osamudiamen/developer-support-tools)
 - [AI Animation Agent (WIP)](https://github.com/ogbeide-osamudiamen/ai-animation-agent)
