@@ -15,7 +15,7 @@ I'm a self-motivated technical support and documentation specialist with 7+ year
 - [ERP Support Docs](https://github.com/ogbeidemike/erp-support-docs.git)
 - [Frontend Mini Projects](https://github.com/ogbeidemike/frontend-mini-projects.git)
 - [Developer Support Tools](https://github.com/ogbeidemike/developer-support-tools.git)
-- [AI Animation Agent (WIP)](https://github.com/ogbeide-osamudiamen/ai-animation-agent)
+- [AI Animation Agent (WIP)](https://github.com/ogbeidemike/ai-animation-agent.git)
 
   ---
 
