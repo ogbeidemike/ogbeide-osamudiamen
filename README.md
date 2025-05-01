@@ -20,4 +20,6 @@ I'm a self-motivated technical support and documentation specialist with 7+ year
   ---
 
 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [YouTube](https://youtube.com/your-channel) | [Email](mailto:ogbeidemike038@gmail.com)
+[LinkedIn](www.linkedin.com/in/
+ogbeide-osamudiamen-56b691bb
+) | [YouTube](https://youtube.com/your-channel) | [Email](mailto:ogbeidemike038@gmail.com)
