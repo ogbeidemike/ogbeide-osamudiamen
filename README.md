@@ -22,4 +22,4 @@ I'm a self-motivated technical support and documentation specialist with 7+ year
 **Connect with me:**  
 [LinkedIn](www.linkedin.com/in/
 ogbeide-osamudiamen-56b691bb
-) | [YouTube](https://youtube.com/your-channel) | [Email](mailto:ogbeidemike038@gmail.com)
+) | [YouTube](https://youtube.com/your-channel) | [Email](mailto:ogbeidemike038@gmail.com) | [website](https://ogbeidemike.github.io/portfolio-landing/)
