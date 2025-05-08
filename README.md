@@ -4,7 +4,7 @@ I'm a self-motivated technical support and documentation specialist with 7+ year
 
 ### What I Do:
 - Write clear, user-first technical documentation
-- Support ERP and SaaS systems with structured issue resolution
+- Support ERP systems with structured issue resolution
 - Build and maintain HTML/CSS/JS-based tools
 - Share tutorials and guides to simplify complexity
 
